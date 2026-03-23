@@ -1,0 +1,80 @@
+# MLBriefing — Configuratie
+# Fork dit project en pas dit bestand aan voor je eigen teams.
+
+# Jouw teams (team abbreviations: https://statsapi.mlb.com/api/v1/teams?sportId=1)
+my_teams:
+  primary:
+    abbr: "NYM"
+    name: "New York Mets"
+    team_id: 121
+    subreddit: "NewYorkMets"
+    color: "#FF5910"
+    division: "NL East"
+  secondary:
+    abbr: "TB"
+    name: "Tampa Bay Rays"
+    team_id: 139
+    subreddit: "tampabayrays"
+    color: "#8FBCE6"
+    division: "AL East"
+
+# Welke divisions volg je? (voor standings)
+divisions:
+  - "NL East"
+  - "AL East"
+
+# Division IDs (MLB Stats API)
+division_ids:
+  "NL East": 204
+  "AL East": 201
+  "NL Central": 205
+  "AL Central": 202
+  "NL West": 203
+  "AL West": 200
+
+# Tijdzone & kijktijden (CET/CEST)
+timezone: "Europe/Amsterdam"
+watch_thresholds:
+  watchable_before: "20:30"   # groen: hele wedstrijd kijkbaar
+  maybe_before: "21:30"       # geel: begin meepakken
+  # alles daarna: nacht
+
+# AI instellingen
+ai:
+  briefing_model: "claude-haiku-4-5-20251001"
+  analysis_model: "claude-opus-4-6-20250207"
+  language: "nl"
+  max_briefing_words: 80
+  max_analysis_words: 150
+
+# Data bronnen
+sources:
+  rss:
+    - url: "https://www.espn.com/espn/rss/mlb/news"
+      name: "ESPN"
+    - url: "https://www.mlb.com/feeds/news/rss.xml"
+      name: "MLB"
+    - url: "https://www.baseballamerica.com/feed/"
+      name: "BA"
+    - url: "https://www.mlbtraderumors.com/feed"
+      name: "MLBTR"
+  reddit:
+    - subreddit: "baseball"
+      sort: "top"
+      time: "day"
+    # Team subs worden automatisch toegevoegd vanuit my_teams
+
+# Scheduling (UTC cron)
+schedule:
+  briefing: "0 5 * * *"       # 07:00 CET
+  news:
+    - "0 5 * * *"              # 07:00 CET
+    - "0 10 * * *"             # 12:00 CET
+    - "0 16 * * *"             # 18:00 CET
+    - "0 21 * * *"             # 23:00 CET
+
+# Seizoensmodus (auto detecteert via MLB schedule API)
+mode: "auto"   # "auto" | "regular_season" | "offseason" | "postseason"
+
+# Hoeveel dagen vooruit kijken voor de watch-tab
+watch_days_ahead: 7

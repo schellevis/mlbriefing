@@ -1,0 +1,52 @@
+name: MLB Nieuwsfeed
+
+on:
+  schedule:
+    - cron: '0 5 * * *'     # 07:00 CET
+    - cron: '0 10 * * *'    # 12:00 CET
+    - cron: '0 16 * * *'    # 18:00 CET
+    - cron: '0 21 * * *'    # 23:00 CET
+  workflow_dispatch:
+
+jobs:
+  news:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pages: write
+      id-token: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: 'pip'
+
+      - name: Python dependencies installeren
+        run: pip install -r requirements.txt
+
+      - name: Nieuws ophalen van ESPN, Reddit, MLB.com
+        run: python scripts/fetch_news_daily.py
+
+      - name: Data committen en pushen
+        run: |
+          git config user.name "MLBriefing Bot"
+          git config user.email "bot@mlbriefing.github.io"
+          git add data/news/
+          git diff --cached --quiet || git commit -m "📰 Nieuws update $(date +%H:%M)"
+          git push
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Frontend bouwen en deployen
+        run: npm ci && npm run build
+
+      - uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
