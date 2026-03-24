@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-24T16:24:48.567153+00:00",
+  "last_updated": "2026-03-24T21:17:23.474640+00:00",
   "headlines": [
     {
       "title": "The moves that rocked the MLB offseason -- and what they mean for the 2026 season",
@@ -464,27 +464,213 @@
       "published_at": "2026-03-24T13:40:17+00:00",
       "tag": "📰",
       "excerpt": "Here are three things we&#8217;ll be keeping an eye on around the baseball world throughout the day: 1. Crow-Armstrong extension details incoming: The Cubs and star center fielder Pete Crow-Armstrong "
+    },
+    {
+      "title": "Robot umps in MLB? What to know about new balls-and-strikes challenge system",
+      "source": "ESPN",
+      "url": "https://www.espn.com/mlb/story/_/id/48288278/opening-day-2026-mlb-season-preview-automated-ball-strike-challenge-system-rule",
+      "published_at": "2026-03-24T16:09:58+00:00",
+      "tag": "📰",
+      "excerpt": "Baseball's next big rule change is here. Here is how automated ball-strike challenges will shape the 2026 season."
+    },
+    {
+      "title": "Thomas sues White Sox for using name on jersey",
+      "source": "ESPN",
+      "url": "https://www.espn.com/mlb/story/_/id/48298515/frank-thomas-files-suit-white-sox-nike-fanatics",
+      "published_at": "2026-03-24T21:42:29+00:00",
+      "tag": "📰",
+      "excerpt": "Hall of Famer Frank Thomas has filed a civil suit against the White Sox, alleging unauthorized use of his likeness on City Connect 2.0 uniforms last season."
+    },
+    {
+      "title": "Tigers' McGonigle, No. 2 MLB prospect, earns spot",
+      "source": "ESPN",
+      "url": "https://www.espn.com/mlb/story/_/id/48297122/tigers-phenom-kevin-mcgonigle-opening-day-roster",
+      "published_at": "2026-03-24T21:42:29+00:00",
+      "tag": "🌱",
+      "excerpt": "Tigers phenom Kevin McGonigle, ESPN's No. 2 prospect for the 2026 season, will be on the Opening Day roster. He has never played above the Double-A level."
+    },
+    {
+      "title": "Rays prospect Williams wins SS job; Pepiot to IL",
+      "source": "ESPN",
+      "url": "https://www.espn.com/mlb/story/_/id/48296988/rays-top-prospect-carson-williams-start-shortstop",
+      "published_at": "2026-03-24T21:42:29+00:00",
+      "tag": "🌱",
+      "excerpt": "Carson Williams, ESPN's No. 39 prospect in MLB, will enter the season as the starting shortstop for the Rays, while starting pitcher Ryan Pepiot is headed to the IL."
+    },
+    {
+      "title": "Brewers add to bullpen depth with Woodford trade",
+      "source": "ESPN",
+      "url": "https://www.espn.com/mlb/story/_/id/48298421/brewers-trade-jake-woodford-send-kc-hunt-rays",
+      "published_at": "2026-03-24T21:42:29+00:00",
+      "tag": "🔄",
+      "excerpt": "The Brewers on Tuesday acquired reliever Jake Woodford from the Rays for minor league right-hander K.C. Hunt."
+    },
+    {
+      "title": "Yankees meet Giants in Opening Night on Netflix (Wednesday, 8 p.m. ET)",
+      "source": "MLB",
+      "url": "https://www.mlb.com/news/yankees-giants-mlb-opening-night-game-on-netflix-date-time-matchup",
+      "published_at": "2026-03-24T14:40:00+00:00",
+      "tag": "📰",
+      "excerpt": ""
+    },
+    {
+      "title": "Tigers reward No. 2 overall prospect McGonigle with roster spot",
+      "source": "MLB",
+      "url": "https://www.mlb.com/news/kevin-mcgonigle-makes-tigers-2026-opening-day-roster",
+      "published_at": "2026-03-24T19:32:00+00:00",
+      "tag": "🌱",
+      "excerpt": ""
+    },
+    {
+      "title": "Marlins reinforce outfield with veteran Austin Slater (source)",
+      "source": "MLB",
+      "url": "https://www.mlb.com/news/austin-slater-marlins-deal",
+      "published_at": "2026-03-24T21:06:24+00:00",
+      "tag": "📰",
+      "excerpt": ""
+    },
+    {
+      "title": "Winquest, Yanks' 1st Rule 5 pick since 2011, makes Opening Day roster",
+      "source": "MLB",
+      "url": "https://www.mlb.com/news/rule-5-pick-cade-winquest-yankees-opening-day-roster",
+      "published_at": "2026-03-24T19:34:00+00:00",
+      "tag": "📰",
+      "excerpt": ""
+    },
+    {
+      "title": "New street clock (almost 17 ft tall!) at Reds' park is a gift from Votto",
+      "source": "MLB",
+      "url": "https://www.mlb.com/news/joey-votto-gifts-street-clock-to-reds-at-great-american-ball-park",
+      "published_at": "2026-03-24T20:55:32+00:00",
+      "tag": "📰",
+      "excerpt": ""
+    },
+    {
+      "title": "How did Benge react to Mets call-up news? We can't print it here",
+      "source": "MLB",
+      "url": "https://www.mlb.com/news/carson-benge-has-awesome-reaction-to-mets-call-up-news",
+      "published_at": "2026-03-24T19:13:40+00:00",
+      "tag": "🌱",
+      "excerpt": ""
+    },
+    {
+      "title": "Gil to open season in Triple-A, could return when Yanks need fifth starter",
+      "source": "MLB",
+      "url": "https://www.mlb.com/news/luis-gil-to-begin-2026-season-in-minor-leagues",
+      "published_at": "2026-03-24T19:25:07+00:00",
+      "tag": "🌱",
+      "excerpt": ""
+    },
+    {
+      "title": "Miguel Sime Jr. Joins, Spring Breakout Recap & More | Hot Sheet Show",
+      "source": "BA",
+      "url": "https://www.baseballamerica.com/stories/miguel-sime-jr-joins-spring-breakout-recap-more-hot-sheet-show/",
+      "published_at": "2026-03-24T20:48:41+00:00",
+      "tag": "📰",
+      "excerpt": "On this week's Hot Sheet Show, Nationals pitching prospect Miguel Sime Jr. joins to discuss his spring, plus we talk Spring Breakout &#038; more.\nThe post Miguel Sime Jr. Joins, Spring Breakout Recap "
+    },
+    {
+      "title": "Explaining Baseball America’s Week 7 NCAA Top 25",
+      "source": "BA",
+      "url": "https://www.baseballamerica.com/stories/explaining-baseball-americas-week-7-ncaa-top-25/",
+      "published_at": "2026-03-24T20:12:29+00:00",
+      "tag": "📰",
+      "excerpt": "Jacob Rudner pulls back the curtain on what went into Baseball America's Top 25 college baseball rankings this week.\nThe post Explaining Baseball America’s Week 7 NCAA Top 25 appeared first on College"
+    },
+    {
+      "title": "Kevin McGonigle Makes Tigers’ 2026 Opening Day MLB Roster",
+      "source": "BA",
+      "url": "https://www.baseballamerica.com/stories/kevin-mcgonigle-makes-tigers-2026-opening-day-mlb-roster/",
+      "published_at": "2026-03-24T17:10:53+00:00",
+      "tag": "📰",
+      "excerpt": "Kevin McGonigle, ranked No. 2 on Baseball America's Top 100 Prospects list, will skip over Triple-A to make his MLB debut with the Tigers.\nThe post Kevin McGonigle Makes Tigers&#8217; 2026 Opening Day"
+    },
+    {
+      "title": "Astros’ Peter Lambert Granted His Release",
+      "source": "MLBTR",
+      "url": "https://www.mlbtraderumors.com/2026/03/astros-release-peter-lambert-opt-out.html",
+      "published_at": "2026-03-24T21:11:59+00:00",
+      "tag": "📰",
+      "excerpt": "Astros righty Peter Lambert was granted his release after triggering an out clause in his minor league deal, manager Joe Espada tells reporters (link via Matt Kawahara of the Houston Chronicle). The t"
+    },
+    {
+      "title": "Astros To Select Christian Vázquez",
+      "source": "MLBTR",
+      "url": "https://www.mlbtraderumors.com/2026/03/astros-to-select-christian-vazquez.html",
+      "published_at": "2026-03-24T20:59:41+00:00",
+      "tag": "📰",
+      "excerpt": "The Astros are going to open the season with Christian Vázquez as their backup to catcher Yainer Diaz, manager Joe Espada tells Matt Kawahara of The Houston Chronicle. César Salazar has been informed "
+    },
+    {
+      "title": "Yankees Trade Zack Short To Nationals",
+      "source": "MLBTR",
+      "url": "https://www.mlbtraderumors.com/2026/03/yankees-trade-zack-short-nationals.html",
+      "published_at": "2026-03-24T20:50:42+00:00",
+      "tag": "🔄",
+      "excerpt": "The Yankees have traded infielder Zack Short to the Nationals in exchange for cash, per announcements from both clubs. Short, who&#8217;d been a non-roster invitee to Yankees camp, will head to Triple"
+    },
+    {
+      "title": "Marlins To Sign Austin Slater To Major League Deal",
+      "source": "MLBTR",
+      "url": "https://www.mlbtraderumors.com/2026/03/marlins-to-sign-austin-slater-to-major-league-deal.html",
+      "published_at": "2026-03-24T20:50:25+00:00",
+      "tag": "🔄",
+      "excerpt": "The Marlins are in agreement with outfielder Austin Slater on a major league deal, reports Craig Mish of SportsGrid. He just opted out of a minor league deal with the Tigers a few days ago. The Marlin"
+    },
+    {
+      "title": "Twins Make Several Roster Decisions",
+      "source": "MLBTR",
+      "url": "https://www.mlbtraderumors.com/2026/03/twins-release-matt-bowman-zak-kent-cody-laweryson-win-bullpen-spots.html",
+      "published_at": "2026-03-24T20:47:17+00:00",
+      "tag": "📰",
+      "excerpt": "The Twins announced Tuesday that they&#8217;ve granted right-hander Matt Bowman his release. He triggered an opt-out clause in his contract over the weekend. Minnesota also reassigned non-roster playe"
+    },
+    {
+      "title": "Poll: Who Will Win The NL West?",
+      "source": "MLBTR",
+      "url": "https://www.mlbtraderumors.com/2026/03/poll-who-will-win-the-nl-west-2.html",
+      "published_at": "2026-03-24T20:01:06+00:00",
+      "tag": "📰",
+      "excerpt": "With Opening Day just around the corner, the offseason is more or less complete for MLB’s 30 clubs and teams. Until the playoffs begin, teams will be focused on a smaller goal: winning their division."
+    },
+    {
+      "title": "Phillies, Oscar Mercado Agree To Minor League Deal",
+      "source": "MLBTR",
+      "url": "https://www.mlbtraderumors.com/2026/03/phillies-sign-oscar-mercado.html",
+      "published_at": "2026-03-24T18:54:37+00:00",
+      "tag": "🌱",
+      "excerpt": "The Phillies are bringing veteran outfielder Oscar Mercado, who spent the 2025 season with their Triple-A club, back on a new minor league deal, MLBTR has learned. Mercado was with the D-backs this sp"
+    },
+    {
+      "title": "Brewers Acquire Jake Woodford",
+      "source": "MLBTR",
+      "url": "https://www.mlbtraderumors.com/2026/03/brewers-to-acquire-jake-woodford.html",
+      "published_at": "2026-03-24T18:40:36+00:00",
+      "tag": "📰",
+      "excerpt": "The Brewers have acquired right-hander Jake Woodford from the Rays, reports Adam McCalvy of MLB.com. It had been reported by Marc Topkin of The Tampa Bay Times that Woodford had triggered the upward m"
+    },
+    {
+      "title": "Parker Mushinski Re-Signs With Rockies",
+      "source": "MLBTR",
+      "url": "https://www.mlbtraderumors.com/2026/03/parker-mushinski-to-opt-out-of-deal-with-rockies.html",
+      "published_at": "2026-03-24T18:35:25+00:00",
+      "tag": "📰",
+      "excerpt": "March 24: The Rockies announced Tuesday that Mushinski has re-signed on a new minor league contract. He&#8217;ll presumably open the season with their Triple-A club. March 22: Left-hander Parker Mushi"
+    },
+    {
+      "title": "Nationals Return Rule 5 Pick Griff McGarry To Phillies",
+      "source": "MLBTR",
+      "url": "https://www.mlbtraderumors.com/2026/03/nationals-designate-griff-mcgarry-for-assignment.html",
+      "published_at": "2026-03-24T18:08:19+00:00",
+      "tag": "📰",
+      "excerpt": "March 24th: The Phillies announced that McGarry is back in the organization and has been assigned to Triple-A Lehigh Valley. March 22nd: The Nationals announced today that they&#8217;ve designated rig"
     }
   ],
   "reddit": {
     "r_baseball": [
       {
-        "title": "Ben Rice has an endorsement deal with Ben's Rice",
-        "url": "https://www.reddit.com/r/baseball/comments/1s1lqy7/ben_rice_has_an_endorsement_deal_with_bens_rice/",
-        "score": 0,
-        "comments": 0,
-        "subreddit": "baseball"
-      },
-      {
         "title": "[Passan] BREAKING: Center fielder Pete Crow-Armstrong and the Chicago Cubs are finalizing a long-term contract extension, sources tell ESPN. Crow-Armstrong, coming off a 30-30 season and a Gold Glove, will get a big payday as the Cubs lock up a franchise-caliber talent.",
         "url": "https://www.reddit.com/r/baseball/comments/1s228g9/passan_breaking_center_fielder_pete_crowarmstrong/",
-        "score": 0,
-        "comments": 0,
-        "subreddit": "baseball"
-      },
-      {
-        "title": "[Jomboy] Another wrinkle within the new Automated Ball-Strike Challenge System is that players must challenge before making any other movements. This would have been ball four to Cavan Biggio, but he flipped his bat before tapping his head.",
-        "url": "https://www.reddit.com/r/baseball/comments/1s1slb1/jomboy_another_wrinkle_within_the_new_automated/",
         "score": 0,
         "comments": 0,
         "subreddit": "baseball"
@@ -497,6 +683,13 @@
         "subreddit": "baseball"
       },
       {
+        "title": "The Many Headshots of Nick Castellanos",
+        "url": "https://www.reddit.com/r/baseball/comments/1s2eko9/the_many_headshots_of_nick_castellanos/",
+        "score": 0,
+        "comments": 0,
+        "subreddit": "baseball"
+      },
+      {
         "title": "The moment Rangers manager Skip Schumaker told Rule 5 pick Carter Baumler that he made the Opening Day roster during a Spring Training mound visit",
         "url": "https://www.reddit.com/r/baseball/comments/1s2dnxn/the_moment_rangers_manager_skip_schumaker_told/",
         "score": 0,
@@ -504,15 +697,22 @@
         "subreddit": "baseball"
       },
       {
-        "title": "9-9-9 challenge expands to more MLB ballparks in 2026",
-        "url": "https://www.reddit.com/r/baseball/comments/1s1vta7/999_challenge_expands_to_more_mlb_ballparks_in/",
+        "title": "SFGiants: How many attempts would it take for the average person to get a hit in MLB?",
+        "url": "https://www.reddit.com/r/baseball/comments/1s2ftus/sfgiants_how_many_attempts_would_it_take_for_the/",
         "score": 0,
         "comments": 0,
         "subreddit": "baseball"
       },
       {
-        "title": "The Many Headshots of Nick Castellanos",
-        "url": "https://www.reddit.com/r/baseball/comments/1s2eko9/the_many_headshots_of_nick_castellanos/",
+        "title": "The Blue Jays are having a Vladimir Guerrero Jr. “Born Ready” bobblehead giveaway on May 25th",
+        "url": "https://www.reddit.com/r/baseball/comments/1s2mx9d/the_blue_jays_are_having_a_vladimir_guerrero_jr/",
+        "score": 0,
+        "comments": 0,
+        "subreddit": "baseball"
+      },
+      {
+        "title": "9-9-9 challenge expands to more MLB ballparks in 2026",
+        "url": "https://www.reddit.com/r/baseball/comments/1s1vta7/999_challenge_expands_to_more_mlb_ballparks_in/",
         "score": 0,
         "comments": 0,
         "subreddit": "baseball"
@@ -548,8 +748,43 @@
         "subreddit": "NewYorkMets"
       },
       {
+        "title": "\"Holy shit, I want to be here.\" The moment Carson Benge became a big leaguer",
+        "url": "https://www.reddit.com/r/NewYorkMets/comments/1s2mllh/holy_shit_i_want_to_be_here_the_moment_carson/",
+        "score": 0,
+        "comments": 0,
+        "subreddit": "NewYorkMets"
+      },
+      {
+        "title": "two more sleeps",
+        "url": "https://www.reddit.com/r/NewYorkMets/comments/1s2q07a/two_more_sleeps/",
+        "score": 0,
+        "comments": 0,
+        "subreddit": "NewYorkMets"
+      },
+      {
+        "title": "Nolan McLean’s stuff in the WBC graded out better than Skenes, Skubal, Webb, and every other pitcher not named Mason Miller on the USA roster. It was also 10 points higher than Yamamoto.",
+        "url": "https://www.reddit.com/r/NewYorkMets/comments/1s2ok4v/nolan_mcleans_stuff_in_the_wbc_graded_out_better/",
+        "score": 0,
+        "comments": 0,
+        "subreddit": "NewYorkMets"
+      },
+      {
         "title": "Citi Field Mets Dog Protest Update",
         "url": "https://www.reddit.com/r/NewYorkMets/comments/1s2a6ko/citi_field_mets_dog_protest_update/",
+        "score": 0,
+        "comments": 0,
+        "subreddit": "NewYorkMets"
+      },
+      {
+        "title": "Matt Harvey vs Jacob deGrom first 3 seasons with the Mets",
+        "url": "https://www.reddit.com/r/NewYorkMets/comments/1s2k9r0/matt_harvey_vs_jacob_degrom_first_3_seasons_with/",
+        "score": 0,
+        "comments": 0,
+        "subreddit": "NewYorkMets"
+      },
+      {
+        "title": "It was a different time",
+        "url": "https://www.reddit.com/r/NewYorkMets/comments/1s2khae/it_was_a_different_time/",
         "score": 0,
         "comments": 0,
         "subreddit": "NewYorkMets"
@@ -569,43 +804,8 @@
         "subreddit": "NewYorkMets"
       },
       {
-        "title": "2 Days Until Opening Day",
-        "url": "https://www.reddit.com/r/NewYorkMets/comments/1s23s1d/2_days_until_opening_day/",
-        "score": 0,
-        "comments": 0,
-        "subreddit": "NewYorkMets"
-      },
-      {
         "title": "From Strawberry Shortcake to the Mets!",
         "url": "https://www.reddit.com/r/NewYorkMets/comments/1s2drd7/from_strawberry_shortcake_to_the_mets/",
-        "score": 0,
-        "comments": 0,
-        "subreddit": "NewYorkMets"
-      },
-      {
-        "title": "How Far Do You Live from Citi?",
-        "url": "https://www.reddit.com/r/NewYorkMets/comments/1s29nj6/how_far_do_you_live_from_citi/",
-        "score": 0,
-        "comments": 0,
-        "subreddit": "NewYorkMets"
-      },
-      {
-        "title": "I need vent about the Kars4Kids jingle on the radio when listening to Mets broadcasts",
-        "url": "https://www.reddit.com/r/NewYorkMets/comments/1s1rmts/i_need_vent_about_the_kars4kids_jingle_on_the/",
-        "score": 0,
-        "comments": 0,
-        "subreddit": "NewYorkMets"
-      },
-      {
-        "title": "After 99 mph and 98 mph in on the hands from Nolan McLean, Carson Benge sneaks a base hit past a diving Francisco Lindor … and then he stretches it into a double.",
-        "url": "https://www.reddit.com/r/NewYorkMets/comments/1s1nlwd/after_99_mph_and_98_mph_in_on_the_hands_from/",
-        "score": 0,
-        "comments": 0,
-        "subreddit": "NewYorkMets"
-      },
-      {
-        "title": "What makes Nolan McLean ‘different’ is what could make him the next can’t-miss Mets pitching star - Dan Martin & Jon Heyman",
-        "url": "https://www.reddit.com/r/NewYorkMets/comments/1s1vwg7/what_makes_nolan_mclean_different_is_what_could/",
         "score": 0,
         "comments": 0,
         "subreddit": "NewYorkMets"
@@ -641,6 +841,27 @@
         "subreddit": "tampabayrays"
       },
       {
+        "title": "ST/PGT: And with that, Opening Day awaits.",
+        "url": "https://www.reddit.com/r/tampabayrays/comments/1s2m9lm/stpgt_and_with_that_opening_day_awaits/",
+        "score": 0,
+        "comments": 0,
+        "subreddit": "tampabayrays"
+      },
+      {
+        "title": "Bossman Junior days away from Rays opening day!",
+        "url": "https://www.reddit.com/r/tampabayrays/comments/1s2it3h/bossman_junior_days_away_from_rays_opening_day/",
+        "score": 0,
+        "comments": 0,
+        "subreddit": "tampabayrays"
+      },
+      {
+        "title": "Physical Ticket",
+        "url": "https://www.reddit.com/r/tampabayrays/comments/1s2o8yh/physical_ticket/",
+        "score": 0,
+        "comments": 0,
+        "subreddit": "tampabayrays"
+      },
+      {
         "title": "Was reading an article on MLB.com about experts picks for stat leaders this coming season, and was very happy to see my man Chandler!! ✨🩵💛🤍",
         "url": "https://www.reddit.com/r/tampabayrays/comments/1s21q8k/was_reading_an_article_on_mlbcom_about_experts/",
         "score": 0,
@@ -655,29 +876,8 @@
         "subreddit": "tampabayrays"
       },
       {
-        "title": "ST/PGT: We're Evan Longoria (3) days away from Opening Day! [F: 7-0]",
-        "url": "https://www.reddit.com/r/tampabayrays/comments/1s1pgxg/stpgt_were_evan_longoria_3_days_away_from_opening/",
-        "score": 0,
-        "comments": 0,
-        "subreddit": "tampabayrays"
-      },
-      {
         "title": "Game Chat: 3/24 Rays (0-0) @ Braves (0-0) 12:05 PM",
         "url": "https://www.reddit.com/r/tampabayrays/comments/1s2d7ds/game_chat_324_rays_00_braves_00_1205_pm/",
-        "score": 0,
-        "comments": 0,
-        "subreddit": "tampabayrays"
-      },
-      {
-        "title": "[Topkin] #Rays news: 2B Gavin Lux is going on the IL due to right shoulder impingement, Richie Palacios will make the opening day roster.",
-        "url": "https://www.reddit.com/r/tampabayrays/comments/1s1j430/topkin_rays_news_2b_gavin_lux_is_going_on_the_il/",
-        "score": 0,
-        "comments": 0,
-        "subreddit": "tampabayrays"
-      },
-      {
-        "title": "RBLR Rays Roundtable – 3/23/26 Ceiling Raisers & Roster Surprises",
-        "url": "https://www.reddit.com/r/tampabayrays/comments/1s1ebyj/rblr_rays_roundtable_32326_ceiling_raisers_roster/",
         "score": 0,
         "comments": 0,
         "subreddit": "tampabayrays"
